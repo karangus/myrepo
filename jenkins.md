@@ -1,0 +1,1 @@
+wget http://ftp-chi.osuosl.org/pub/jenkins/war-stable/2.164.3/jenkins.war
