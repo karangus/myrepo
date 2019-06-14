@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: pod
+metadata:
+  name:  hello-pod
+spec:
+  containers:
+    -name: myfristcontainer
+     image: tomcat
+     ports: 
+      -containerport: 8080
